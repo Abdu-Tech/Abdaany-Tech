@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Abdu-Tech
-- 👀 I’m interested in cloud computing practitioner project 
-- 🌱 I’m currently learning frontend developer and cloud computing 
-- 💞️ I’m looking to collaborate on Amazon database 
-- 📫 How to reach me abdullahmusliudeen@gmail.com
+- 👀 I’m interested in Frontend Development Project 
+- 🌱 I’m currently learning frontend developer
+- 📫 I can be reached via abdullahmusliudeen@gmail.com
 
 <!---
 Abdu-Tech/Abdu-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

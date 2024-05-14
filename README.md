@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdu-Tech
 - 👀 I’m interested in Frontend Development Project 
-- 🌱 I’m currently learning frontend developer
+- 🌱 I’m currently learning frontend development
 - 📫 I can be reached via abdullahmusliudeen@gmail.com
 
 <!---
